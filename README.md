@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheldonk1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheldonk1&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br/>
     <img align: "center" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
